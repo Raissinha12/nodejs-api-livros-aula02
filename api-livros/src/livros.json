@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "O retrato de Dorian Gray",
+        "descricao": " romance filosófico ",
+        "autor": "Oscar Wilde",
+        "anoPublicacao": 1890
+    },    
+    
+    {
+        "id": 2,
+        "titulo": "Crônica do Pássaro de Corda",
+        "descricao": " aquele que retrata a efemeridade do amor ",
+        "autor": "Haruki Murakami",
+        "anoPublicacao": 1994
+    },
+    {
+        "id": 3,
+        "titulo": "Sublime",
+        "descricao": " e se seu amor fosse de outro mundo? ",
+        "autor": "Christina Lauren",
+        "anoPublicacao": 2014
+    },
+    {
+        "id": 4,
+        "titulo": "O fantasma da ópera",
+        "descricao": " romance filosófico ",
+        "autor": "Gaston Leroux",
+        "anoPublicacao": 1909
+    }
+
+]
